@@ -15,4 +15,9 @@ Image can be seen at <<#img-ch01-01>>.
 [link=https://www.rust-lang.org]
 image::01-01/01-01.png[]
 
-
+[IMPORTANT]
+.Example of Important Admonium
+====
+This is line 1
+This is line 2
+====

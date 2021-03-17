@@ -15,11 +15,12 @@ v0.0.1-rev-{localdatetime}
 :imagesdir: images
 :chapter-label: Chapter
 :figure-caption: Figure 
+:icons: font
 ////
 Use this if you create a full cover in one page
 :front-cover-image: image::./images/title_page.png[]
 ////
-:title-logo-image: images/logo-zimera.png
+//:title-logo-image: images/logo-zimera.png
 
 
 [preface]
